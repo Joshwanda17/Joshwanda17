@@ -4,7 +4,7 @@
 
 Welcome to my GitHub portfolio!
 
-I'm a developer passionate about creating technology that solves real-world problems and improves people's lives. My work spans web applications, mobile development, backend systems, and software architecture. I enjoy turning ideas into practical products while continuously learning and improving my craft.
+I'm a developer passionate about creating technology that solves real-world problems and improves people's lives. My work spans web applications, mobile development, backend systems, and software architecture.
 
 ---
 
@@ -44,6 +44,13 @@ Beyond coding, I am passionate about creating solutions that generate opportunit
 ---
 
 ## 📂 Featured Projects
+
+### 🔐 Password Generator
+
+A web-based utility for generating secure, customizable passwords. Built with HTML, CSS, and JavaScript to provide a user-friendly interface for creating strong passwords with various options and preferences.
+
+**Tech:** HTML, CSS, JavaScript
+**[View Repository](https://github.com/Joshwanda17/password-generator)**
 
 ### 🎮 Sudoku Game
 
@@ -92,7 +99,7 @@ A collection of projects focused on strengthening software engineering fundament
 
 ## 🎯 My Mission
 
-I believe technology should create opportunities and solve meaningful problems. My long-term goal is to build impactful software products and contribute to projects that improve people's lives while creating employment opportunities through innovation.
+I believe technology should create opportunities and solve meaningful problems. My long-term goal is to build impactful software products and contribute to projects that improve people's lives while fostering innovation and collaboration.
 
 ---
 
