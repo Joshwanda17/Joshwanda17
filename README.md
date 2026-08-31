@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:5B21B6,100:7C3AED&height=200&section=header&text=Josh%20Wanda&fontSize=68&fontColor=FFFFFF&fontAlignY=35&desc=Growth%20%26%20Engineering%20at%20Welile%20%C2%B7%20Kampala%2C%20Uganda&descSize=18&descAlignY=55" alt="Josh Wanda" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:5B21B6,100:7C3AED&height=200&section=header&text=Josh%20Wanda&fontSize=68&fontColor=FFFFFF&fontAlignY=35&desc=Engineering%20%26%20Growth%20at%20Welile%20%C2%B7%20Financial%20Identity%20Infrastructure%20for%20Africa&descSize=17&descAlignY=55" alt="Josh Wanda" />
 
-### I build the product, and I take it to the street.
+### I build the systems people use — and I take them to the street.
 
-Most engineers meet their users through analytics dashboards. I meet mine in person — then go build what I saw.
+Most engineers meet their users through analytics dashboards. I meet mine in person, then go build what I saw.
 
-At **[Welile](https://welile.com)**, Uganda's technology-enabled rent support platform, I work both sides: **field growth** (getting the product into the hands of tenants and landlords across Kampala) and **engineering** (building the software those users actually touch).
+At **[Welile](https://welile.com)** I work across engineering, product, and field growth — building software, launching products, onboarding users, and turning real-world friction into systems that scale. Welile is building toward financial identity infrastructure for Africa, starting with rent and expanding into other everyday economic behaviours.
 
 <br />
 
@@ -23,11 +23,11 @@ At **[Welile](https://welile.com)**, Uganda's technology-enabled rent support pl
 
 ## About
 
-I have an unusual loop: I acquire users face to face, and I write the code they use.
+I work at the intersection of engineering, product, and growth. I don't write software and wait for users to arrive — I help take products into the market, watch how people actually use them, and build around what I learn.
 
-That means I don't have to guess at requirements. When a landlord in Kampala explains why he won't trust a payout he can't see confirmed on his phone, I'm the one who then builds the confirmation screen. When a tenant abandons an application halfway, I was standing there — I know which field lost them. Most product teams spend a fortune trying to buy that signal. I get it for free, because I'm on both ends of it.
+At Welile that means working on systems touching real money, real businesses, and real households. The core platform helps tenants access rent support, landlords receive rent upfront, agents distribute the service, and partners participate through structured platform programmes. The longer-term direction is to turn everyday economic behaviour into trusted financial identity data that can unlock opportunity across Africa.
 
-The domain sharpens this. Welile moves real money between tenants, landlords, and licensed mobile money partners. An off-by-one in a repayment schedule isn't a cosmetic bug — it's someone's housing. So I design the data model before the interface, treat reconciliation and idempotency as the feature rather than the edge case, and build for the market I'm actually in: intermittent connectivity, mobile-first users, and mobile money rails instead of card networks.
+The engineering challenge is therefore bigger than building screens. I think about data integrity, transaction flows, reconciliation, identity, permissions, mobile-money integrations, auditability, and operational tooling — while still caring whether a real person can understand and use the product.
 
 <table>
 <tr>
@@ -35,27 +35,39 @@ The domain sharpens this. Welile moves real money between tenants, landlords, an
 
 **What I build**
 
-- Fintech platform features and services
-- Mobile money integrations and payment flows
-- Cross-platform mobile (React Native)
+- Fintech and financial-identity platform features
+- Rent support and repayment workflows
+- Mobile money and payment integrations
+- Cross-platform mobile applications
 - REST APIs and backend services
-- Relational data modeling and ledger design
-- Authentication, sessions, and access control
+- Relational data models, ledgers, and transaction systems
+- Authentication, KYC, sessions, and access control
+- Internal dashboards and operational tooling
+- Product experiences built from field research
 
 </td>
 <td width="50%" valign="top">
 
 **What I run**
 
-- Field acquisition of tenants and landlords
-- Ground-level distribution across Kampala
-- Onboarding and user education in person
-- Turning field friction into product requirements
-- Closing the loop between users and roadmap
+- Field acquisition and user onboarding
+- Product distribution and market expansion
+- Tenant, landlord, and agent education
+- Turning field observations into product requirements
+- Launching and supporting new digital products
+- Closing the loop between users, operations, engineering, and roadmap
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### Current scale
+
+**66,000+ users** across the Welile ecosystem, spanning multiple products that serve different parts of the customer and operational journey.
+
+</div>
 
 ---
 
@@ -96,63 +108,47 @@ The domain sharpens this. Welile moves real money between tenants, landlords, an
 
 ## Work at Welile
 
-> **Access rent today, pay back over time.** Welile is Uganda's technology-enabled rent support platform: tenants apply in minutes, landlords are paid upfront through licensed mobile money partners, and tenants repay in small daily installments. The platform reports serving 250,000+ tenants and 200,000+ landlords.
-
-<!-- =====================================================================
-     TODO — REPLACE THE PLACEHOLDER BULLETS BELOW WITH REAL SPECIFICS.
-     Do not push until every bullet describes something you actually did.
-
-     For ENGINEERING, each bullet should carry: what you built, the
-     constraint that made it hard, and the outcome. Shape to aim for:
-       - Built the daily repayment scheduler tracking installment
-         balances, with idempotent retry handling for failed debits.
-       - Integrated [MTN MoMo / Airtel Money] disbursement APIs for
-         landlord payouts, with reconciliation against settlement reports.
-       - Shipped the tenant application flow that cut time-to-apply
-         to under two minutes.
-
-     For GROWTH, use numbers wherever you can share them: users onboarded,
-     areas covered, landlords signed, retention or conversion you moved.
-     Numbers are what make an operations role legible to a hiring manager.
-
-     Keep only what is true and what you are permitted to disclose.
-     ================================================================== -->
+> **Building financial identity infrastructure, starting with rent.**
+> Welile is a technology-enabled rent platform that helps tenants access upfront rent payments, landlords receive rent on time, and users build a verified history of their financial behaviour. The longer-term vision is to transform everyday economic activity into trusted financial identity data.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Engineering
+### Engineering & Product
 
-- *[System or service you own]*
-- *[Hardest technical constraint you solved]*
-- *[Measurable outcome, if shareable]*
-
-`TypeScript` `React` `Node.js` `PostgreSQL` `Mobile Money APIs`
+- Build and maintain customer-facing fintech products across web and mobile
+- Design payment, repayment, wallet, receipt, verification, and account workflows around real operational constraints
+- Work with mobile-money and banking payment rails, including **MTN Uganda**, **Airtel Uganda**, and **Equity Bank Uganda**
+- Build transaction-aware systems where reconciliation, auditability, permissions, and data integrity are core product requirements — not afterthoughts
+- Turn field observations and user feedback into product requirements and shipped features
+- Work across the stack: TypeScript, JavaScript, React, React Native, Node.js, PostgreSQL, APIs, and cloud tooling
 
 </td>
 <td width="50%" valign="top">
 
 ### Growth & Field Operations
 
-- *[Users or landlords you onboarded — use a number]*
-- *[Territory or channel you built out]*
-- *[Field insight that changed the product]*
-
-`Distribution` `Onboarding` `User Research` `Market Expansion`
+- Support acquisition and onboarding of tenants, landlords, agents, and partners
+- Take products into the field and use direct user interaction to identify friction analytics alone cannot explain
+- Bridge the gap between engineering, operations, sales, and the people actually using the platform
+- Contribute to product launches and market distribution as Welile expands beyond a single rent product
 
 </td>
 </tr>
 </table>
 
-### Internal Product Line — Vehicle Services
+### Product Ecosystem
 
-Alongside the rent platform, I work on Welile's internal vehicle-services products.
+The platform is moving from a single rent product toward a broader set of financial and asset-related services.
 
-| Product | What it does | Stack |
-|:--|:--|:--|
-| **[Welile Car Platform](https://github.com/Joshwanda17/welile-car-platform)** | Web backbone for vehicle service management — records, customer data, and operational tooling that serves the mobile client. | `TypeScript` `React` `Node.js` |
-| **[Welile Car Companion](https://github.com/Joshwanda17/welile-car-companion)** | React Native app giving vehicle owners their profiles, maintenance history, and service booking on mobile. | `React Native` `JavaScript` |
+| Product | Role in the ecosystem |
+|:--|:--|
+| **Welile** | Core rent technology platform connecting tenants, landlords, agents, and partners |
+| **Welile App** | Mobile-first tenant experience for rent support, repayments, and account services |
+| **Welile Receipts** | Digital receipt and payment-record experience supporting verified transaction history |
+| **Welile Car** | Vehicle-services product line — a web platform for service management and records, plus a React Native companion app for owner profiles, maintenance history, and service workflows |
+| **Welile Drive** | Save-to-Own vehicle platform combining a digital wallet, vehicle inventory, savings milestones, and financing workflows |
 
 <sub>*Internal products — repositories may be private or limited in scope.*</sub>
 
@@ -259,8 +255,8 @@ Based in **Kampala, Uganda** — open to on-site, hybrid, and remote.
 I'm interested in conversations about:
 
 - **Engineering roles** — full-stack, mobile, or backend, on teams shipping to real users
-- **Fintech and payments** — particularly mobile money and financial inclusion in emerging markets
-- **Product-and-growth hybrid roles** — where knowing the user firsthand is an advantage, not a distraction
+- **Fintech and financial identity** — particularly mobile money, payments, and financial inclusion in emerging markets
+- **Product-and-growth engineering** — where engineering, distribution, and firsthand user knowledge reinforce each other
 - **Open source** — contributions to tools I use, especially React Native and TypeScript
 - **Technical mentorship** — in both directions
 
