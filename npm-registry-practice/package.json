@@ -1,0 +1,19 @@
+{
+  "name": "@joshwanda17/npm-registry-practice",
+  "version": "1.0.0",
+  "description": "Practice package demonstrating authentication, publishing, and installation with the GitHub Packages npm registry.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Joshwanda17/Joshwanda17.git",
+    "directory": "npm-registry-practice"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "Josh Wanda",
+  "license": "MIT"
+}
